@@ -4,6 +4,8 @@ DeepLearning Course Assignments
 
 # Introduction
 
+ DeepLearning Course Home Page: [https://speechlab.sjtu.edu.cn/~kyu/node/9](https://speechlab.sjtu.edu.cn/~kyu/node/9)
+
 These assignments are retrieved from the assignments of [CS231n](http://cs231n.github.io/). Some contents are deleted from their assignments according to needs of our DeepLearning Course.
 
 For each assignment, you should complete and hand in completed worksheet (including its outputs and any supporting code outside of the worksheet) with your assignment submission. If you encounter any difficulties, you may refer to the course notes of [CS231n](http://cs231n.github.io/) to get some inspiration.
