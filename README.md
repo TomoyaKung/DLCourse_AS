@@ -1,6 +1,9 @@
 # DLCourse_AS
 DeepLearning Course Assignments
 
+1. Assignment1: [deadline: 2016/10/28 24:00]
+ 
+ svm.ipynb => softmax.ipynb => two_layer_net.ipynb
 
 # Introduction
 
@@ -55,6 +58,6 @@ jupyter notebook --port=5000
 
 ## Submit your work.
 
-Once you are done working run the collectSubmission.sh script; this will produce a file called `assignment1.zip`. Rename it to `StudentID-StudentName-AssignmentID.zip`(for example, `12345-小明-as1.zip`). 
+Once you are done working run the `collectSubmission.sh` script; this will produce a file called `assignment1.zip`. Rename it to `StudentID-StudentName-AssignmentID.zip`(for example, `12345-小明-as1.zip`). 
 
 Upload your assignments to corresponding folder in `ftp://202.120.38.125`. Public account: `dl2016`/`dl2016`.
