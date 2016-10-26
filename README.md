@@ -1,7 +1,7 @@
 # DLCourse_AS
 DeepLearning Course Assignments
 
-1. Assignment1: [deadline: 2016/10/28 24:00]
+1. Assignment1: [deadline: 2016/11/04 24:00]
  
  svm.ipynb => softmax.ipynb => two_layer_net.ipynb
 
