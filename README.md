@@ -5,6 +5,11 @@ DeepLearning Course Assignments
  
  svm.ipynb => softmax.ipynb => two_layer_net.ipynb
 
+2. Assignment2: [deadline: 2016/12/09 24:00]
+
+ FullyConnectedNets.ipynb => BatchNormalization.ipynb => Dropout.ipynb => ConvolutionalNetworks.ipynb
+
+
 # Introduction
 
  DeepLearning Course Home Page: [https://speechlab.sjtu.edu.cn/~kyu/node/7](https://speechlab.sjtu.edu.cn/~kyu/node/7)
