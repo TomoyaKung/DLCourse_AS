@@ -9,6 +9,10 @@ DeepLearning Course Assignments
 
  FullyConnectedNets.ipynb => BatchNormalization.ipynb => Dropout.ipynb => ConvolutionalNetworks.ipynb
 
+3. Assignment3: [deadline: 2016/01/06 24:00]
+
+ RNN_Captioning.ipynb => LSTM_Captioning.ipynb
+
 
 # Introduction
 
